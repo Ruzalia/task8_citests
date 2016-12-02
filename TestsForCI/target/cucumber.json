@@ -1,0 +1,80 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2789330157,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestSteps.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Verify if Google Search show results",
+        "description": "",
+        "id": "search-feature;verify-if-google-search-show-results",
+        "after": [
+          {
+            "result": {
+              "duration": 1101685727,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3818362916,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I open search engine url",
+            "match": {
+              "location": "TestSteps.iOpenGoogle()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 149836559,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I fill search input with search value",
+            "match": {
+              "location": "TestSteps.iFillSearchInput()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 23342965,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I can see search results",
+            "match": {
+              "location": "TestSteps.iCanSeeSearchResults()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Search Feature",
+    "description": "",
+    "id": "search-feature",
+    "keyword": "Feature",
+    "uri": "search.feature"
+  }
+]

@@ -1,0 +1,4 @@
+com\epam\ruzaliia_yakunina\cdp\automation\ci\uitests\TestSteps.class
+com\epam\ruzaliia_yakunina\cdp\automation\ci\integrationtests\FormatterWithPropertiesHandlerTest.class
+com\epam\ruzaliia_yakunina\cdp\automation\ci\uitests\TestRunner.class
+com\epam\ruzaliia_yakunina\cdp\automation\ci\unittests\FormatterTest.class

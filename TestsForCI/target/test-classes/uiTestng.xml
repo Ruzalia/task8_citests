@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="UnitTests">
+    <test name="Formatter test">
+        <classes>
+            <class name="com.epam.ruzaliia_yakunina.cdp.automation.ci.uitests.TestRunner"/>
+        </classes>
+    </test>
+</suite>

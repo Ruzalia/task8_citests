@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.epam.ruzaliia_yakunina.cdp.automation.ci.uitests.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.517 sec - in com.epam.ruzaliia_yakunina.cdp.automation.ci.uitests.TestRunner

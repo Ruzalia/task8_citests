@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.epam.ruzaliia_yakunina.cdp.automation.ci.uitests.TestRunner" duration-ms="8285" started-at="2016-12-02T16:53:07Z" finished-at="2016-12-02T16:53:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test 3f1bc2d5-51e3-467a-aea4-738ccd614043" duration-ms="8285" started-at="2016-12-02T16:53:07Z" finished-at="2016-12-02T16:53:16Z">
+    </test> <!-- Command line test 3f1bc2d5-51e3-467a-aea4-738ccd614043 -->
+  </suite> <!-- com.epam.ruzaliia_yakunina.cdp.automation.ci.uitests.TestRunner -->
+</testng-results>
