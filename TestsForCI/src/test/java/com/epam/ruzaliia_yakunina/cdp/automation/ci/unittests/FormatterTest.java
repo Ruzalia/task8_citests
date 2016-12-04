@@ -12,8 +12,8 @@ import java.security.InvalidParameterException;
  */
 public class FormatterTest {
     private Formatter formatter;
-    private final String SURNAME = "Pavlov";
-    private final String NAME = "Pavlo";
+    private final String SURNAME = "pavlov";
+    private final String NAME = "pavlo";
 
     @BeforeClass
     public void setUp(){
